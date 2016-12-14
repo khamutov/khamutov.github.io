@@ -1,0 +1,34 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Khamutov
+tagline:          'A Jekyll theme'
+description:      'Software engineer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://khamutov.github.io
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/khamutov/khamutov.github.io
+
+gems:
+  - jekyll-paginate
