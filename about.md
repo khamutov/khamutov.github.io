@@ -1,30 +1,29 @@
 ---
 layout: page
-title: About
+title: Обо мне
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Меня зовут Александр Хамутов. Я руководитель программистов, пишу бэкэнд на Java, Clojure, Ruby.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+**Что делаю.** Помогаю компаниям создать и настроить отдел разработки. Для этого собеседую и подбираю команду, обучаю лучшим практикам программной инженерии, создаю рабочий процесс и стандарты от постановки задачи до деплоя в продакшен, внедряю практики управления. Я делаю все это, чтобы компания сосредоточилась на бизнесе, а не тратила нервы на затягивание сроков, сорванные релизы, падающий продакшен.
 
-There are currently two themes built on Poole:
+**Ко мне обращаются**, когда уволились ключевые программисты, оставив после себя кучу технического долга и наполовину работающий продукт. Я проанализирую проект, выделю ключевые проблемы, исправление которых даст быстрый и значительный результат, составлю долгосрочный план улучшения проекта, начну внедрять технологические и управленческие методологии.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Однако лучше обратиться ко мне до катастрофы: тогда мы сразу начнем спокойно и методично улучшать разработку программ в компании, повышать производительность и предсказуемость результата. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+**Простой расчет рисков команды разработки.** Возьмем небольшую команду из трех программистов, зарплата по медиане в Москве 100 000 рублей на руки. Итоговый фонд оплаты труда с учетом налогов и социальных взносов составит 420 000 рублей в месяц. За полгода неуправляемой разработки уйдет 2,5 миллиона рублей, за год 5 миллионов. С одной стороны отдадите значительную сумму денег, с другой получите непредсказуемый результат. Не самая удачная сделка.
 
-## Setup
+**Знаю** как настроить Jira, собрать подходящую agile методологию из множества практик, поднять Jenkins и настроить continuous delivery, чем docker отличается от vagrant, чем chef лучше puppet и ansible, куда подевались тесты из проекта, почему ваше объектно-ориентированное программирование не объектно-ориентированное, в чем не правы последователи функционального подхода и почему кофемашина варит неправильный кофе.
 
-Some fun facts about the setup of this project include:
+**Не смогу помочь** если нужен просто сайт о компании, потому что специализированные студии справятся с этой задачей лучше и дешевле. Место где я буду полезен - когда компания разрабатывает свой собственный продукт.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+**Моя цель** - помогать компаниям вести бизнес, не тратя нервы на разработку программного обеспечения.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Ищу, исследую и изучаю практики дизайна программ, объектной и функциональной композиции. Чтобы лучше понимать разные подходы и концепции, программирую и беру лучшее из других языков: Java, Scala, Clojure, C#, F#, Groovy, Kotlin, C/C++, Go, Ruby, JavaScript, Python, Matlab, R, Haskell, Erlang. Это не значит что я пишу продуктовый код на всем, моя основная специализация Java и Ruby. Изучая и погружаясь в другие языки  понимаешь чем руководствовались авторы, философию и подход, берешь лучшее, и переносишь в основную работу. К примеру, идеи immutable state из функциональных языков хорошо переносятся на объектные языки и упрощают многопоточное программирование, но чтобы глубоко понять эту концепцию нужно писать код на функциональном языке типа Clojure или Haskell.
 
-Thanks for reading!
+Свяжитесь со мной, расскажу чем буду полезен и поговорим о высоком:
+
+* [GitHub](https://github.com/khamutov)
+* [Facebook](https://www.facebook.com/khamutov)
+* [VK](https://vk.com/khamutov)
+* phone: +7 (985) 991-92-17
