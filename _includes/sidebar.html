@@ -7,12 +7,12 @@
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">Software engineer, design of computer programs</p>
+      <p class="lead">software engineer</p>
       <!--<p class="lead">{{ site.description }}</p>-->
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="/">Главная</a>
+      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="/">Main</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -29,7 +29,7 @@
       {% endfor %}
 
       <a class="sidebar-nav-item" href="https://github.com/khamutov">GitHub</a>
-      <span class="sidebar-nav-item">Версия v{{ site.version }}</span>
+      <span class="sidebar-nav-item">Version v{{ site.version }}</span>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

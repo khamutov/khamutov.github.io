@@ -16,7 +16,7 @@ title: Home
     {{ post.excerpt }}
     <p>
       <a href="{{ post.url }}" itemprop="url">
-        Читать дальше&nbsp;→
+        More&nbsp;→
       </a>
     </p>
   </div>
@@ -27,15 +27,15 @@ title: Home
   {% if paginator.next_page %}
     <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
   {% else %}
-    <span class="pagination-item older">←&nbsp;Сюда</span>
+    <span class="pagination-item older">←&nbsp;Prev</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Туда&nbsp;→</a>
+      <a class="pagination-item newer" href="/">Next&nbsp;→</a>
     {% else %}
       <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer">Туда&nbsp;→</span>
+    <span class="pagination-item newer">Next&nbsp;→</span>
   {% endif %}
 </div>

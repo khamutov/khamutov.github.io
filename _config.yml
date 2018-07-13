@@ -24,7 +24,7 @@ kramdown:
   input: GFM
 
 # Custom vars
-version:          0.1.2
+version:          0.2.0
 
 github:
   repo:           https://github.com/khamutov/khamutov.github.io
